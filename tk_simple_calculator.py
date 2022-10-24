@@ -1,4 +1,4 @@
-#codeaddis.github.io/gemechis-elias/simple-python-calculator
+#github.com/gemechis-elias/simple-python-calculator
 
 from tkinter import * #import all from tkinter module
 from math import *
@@ -20,3 +20,4 @@ entry.pack()
 res = Label(w)
 res.pack()
 w.mainloop()   #end
+

@@ -4,4 +4,20 @@ Simple Python Calculator with tkinter UI <br>
   <img align="left" alt="Gemchis Elias Simple ui calculator" width="100%" src="calc.png" />
 </a>
 <br>
+<br>
+## Installing / Getting started
+Tkinter can be installed using pip. The following command is run in the command prompt to install Tkinter
+
+```pip install tk
+```
+### Run This Code
+
+Just run this code on code editor
+
+```shell
+git clone https://github.com/your/your-project.git
+cd your-project/
+packagemanager install
+```
+
 That Can take Mathematical expression from user and return answer!!
